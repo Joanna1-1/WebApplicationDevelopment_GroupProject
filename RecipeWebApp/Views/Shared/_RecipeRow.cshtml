@@ -1,0 +1,31 @@
+﻿@model Recipe
+
+    <tr>
+        <td>
+            @Model.Id
+        </td>
+        <td>
+            @Model.Culture
+        </td>
+        <td>
+            @Model.Category
+        </td>
+        <td>
+            @Model.Title
+        </td>
+        <td>
+            @Model.Chef
+        </td>
+        <td>
+            <a asp-action="RecipeView" asp-controller="Crud" asp-route-id="@Model.Id" class="btn btn-primary">&nbsp;View&nbsp;</a>
+        </td>
+        <td>
+            <a asp-action="RecipeEdit" asp-controller="Crud" asp-route-id="@Model.Id" class="btn btn-info">&nbsp;Edit&nbsp;</a>
+        </td>
+        <td>
+            <a asp-action="RecipeReview" asp-route-id="@Model.Id" class="btn btn-warning">&nbsp;Review&nbsp;</a>
+        </td>
+        <td>
+            @await Html.PartialAsync("_Rating", Model.AvrgRate)
+        </td>
+    </tr>

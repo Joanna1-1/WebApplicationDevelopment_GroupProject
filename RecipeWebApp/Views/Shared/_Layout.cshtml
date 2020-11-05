@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/Styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="/lib/jquery/jquery.min.js"></script>
+    <script src="/lib/jquery-validate/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <img src="~/images/logo-1.png" alt="LOGO" width="75" height="50" />
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">ShareYourRecipe</a>
+            </div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li><a asp-action="RecipeList" asp-controller="Home">Recipe List</a></li>
+                <li><a asp-action="Create" asp-controller="Crud">Add Recipe</a></li>
+            </ul>
+            <div class="topnav-right" style="width:30%; float:right;">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a href="#" style="color:orange;">Hello, @User.Identity.Name</a>
+                        }
+                    </li>
+                    <li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a asp-action="Logout" asp-controller="Account">Log Out</a>
+                        }
+                        else
+                        {
+                            <a asp-action="Login" asp-controller="Account">Log In</a>
+                        }
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+        <div style="min-height: 750px">
+            @if (TempData["message"] != null)
+            {
+                <div class="alert alert-success mt-1">@TempData["message"]</div>
+            }
+
+            @RenderBody()
+        </div>
+
+        <div style="text-align: center; padding:10px">
+            &copy;Copyright: Maziar H. 301064337 - COMP 229 - Summer 2020
+        </div>
+
+    </body>
+</html>

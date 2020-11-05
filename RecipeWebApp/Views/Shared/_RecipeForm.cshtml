@@ -1,0 +1,104 @@
+﻿@model Recipe
+
+
+<form class="p-a-1" asp-action="RecipeEdit" asp-controller="Crud" method="post">
+    <div style="padding-left: 75px;" asp-validation-summary="All"></div>
+    <div class="ingDiv">
+        <table>
+            <tr>
+                <td style="width:60%; vertical-align:top">
+                    <div style="padding:25px; border: solid 1px Orange; border-radius: 5px">
+                        <input asp-for="Chef" class="form-control" placeholder="Chef (Required)" />
+                        <br />
+                        <input asp-for="Title" class="form-control" placeholder="Title (Required)" />
+                        <br />
+                        <textarea asp-for="Description" class="form-control" rows="2" placeholder="Description"></textarea>
+                        <br />
+                        <table>
+                            <tr>
+                                <td>
+                                    <select asp-for="Culture" class="btn btn-info">
+                                        <option>North American</option>
+                                        <option>Global</option>
+                                        <option>Carabian</option>
+                                        <option>South American</option>
+                                        <option>Asian</option>
+                                        <option>Mediteranian</option>
+                                        <option>Persian</option>
+                                        <option>Chinese</option>
+                                        <option>Indian</option>
+                                        <option>Korean</option>
+                                        <option>Thai</option>
+                                        <option>Europian</option>
+                                    </select>
+                                </td>
+                                <td>
+                                    <select asp-for="Category" class="btn btn-info">
+                                        <option>Breakfast</option>
+                                        <option>Appetizer</option>
+                                        <option>Main Course</option>
+                                        <option>Dessert</option>
+                                        <option>Snak</option>
+                                    </select>
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                    </div>
+                </td>
+                <td style="width:40%; vertical-align:top; padding-left:15px;">
+                    <div style="padding:25px; border: solid 1px Orange; border-radius: 5px; height:100%">
+                        <input asp-for="PreparationTime" class="form-control" placeholder="Preparation Time (e.g. 1 h)  (Required)" />
+                        <br />
+                        <input asp-for="Servings" class="form-control" value="4" placeholder="Servings (e.g. 7)" />
+                        <br />
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <br />
+    <div class="ingDiv">
+        <div style="padding:25px; border: solid 1px Orange; border-radius: 5px">
+            <h3 style="font-weight:700">Ingredients</h3>
+            <br />
+            <textarea asp-for="Ingredient" class="form-control" rows="5" placeholder="Type all ingredients here  (Required) "></textarea>
+            <br />
+        </div>
+    </div>
+    <br />
+    <div class="ingDiv">
+        <div style="padding:25px; border: solid 1px Orange; border-radius: 5px">
+            <h3 style="font-weight:700">Directions</h3>
+            <br />
+            <textarea asp-for="Direction" rows="5" class="form-control" placeholder="Type the Direction Steps here  (Required) "></textarea>
+            <br />
+        </div>
+    </div>
+    <br />
+    <div class="ingDiv">
+        <div style="padding:25px; border: solid 1px Orange; border-radius: 5px">
+            <h3 style="font-weight:700">Nutrition Facts</h3>
+            <br />
+            <textarea asp-for="Nutrition" rows="5" class="form-control" placeholder="Type the Nutrition facts here "></textarea>
+            <br />
+        </div>
+    </div>
+    <br />
+    <div class="ingDiv">
+        <div style="padding:25px; border: solid 1px Orange; border-radius: 5px">
+            <span>Select image.</span>
+            <br />
+            <br />
+            <input type="file" class="btn btn-info" id="myFile" name="filename">
+            <br />
+            <button disabled="disabled"> Upload</button>
+        </div>
+    </div>
+    <br />
+    <div style="text-align:center">
+        <button type="submit" class="btn btn-success">&nbsp;Save&nbsp;</button>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-primary">&nbsp;Cancel&nbsp;</a>
+    </div>
+</form>
+

@@ -1,0 +1,15 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "Add New Recipe";
+    Layout = "_Layout";
+}
+
+<div class="panel-body recDiv">
+    <div class="hTitle">
+        ADD YOUR RECIPE
+    </div>
+
+    @await Html.PartialAsync("_RecipeForm", Model)
+
+</div>

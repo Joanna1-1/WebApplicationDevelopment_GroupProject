@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Review>
+
+@foreach (var r in Model)
+{
+    <div class="ingDiv">
+        <div style="padding:25px; border: solid 1px Orange; border-radius: 5px">
+            <p><strong>@r.Name</strong></p>
+            <div style="font-size:8pt; color:#727272">
+                @r.dateTime <br />
+            </div>
+            <div style="padding: 10px 0 10px 0;">
+                @await Html.PartialAsync("_Rating", r.Rate)
+            </div>
+            <p>
+                <strong>
+                    @r.Title
+                </strong>
+            </p>
+            <p>
+                @r.Note
+            </p>
+            <br />
+        </div>
+    </div>
+    <br />
+}

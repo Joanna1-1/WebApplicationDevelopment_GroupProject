@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Review>
+@{
+    ViewBag.Title = "Reviews";
+    Layout = "_Layout";
+}
+
+
+    <div class="panel-body recDiv">
+        <div class="hTitle">
+            Reviews
+        </div>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success mt-1">@TempData["message"]</div>
+        }
+
+        <div>
+            @await Html.PartialAsync("_Reviews", Model)
+        </div>
+        <div>
+            @await Html.PartialAsync("_ReviewForm", new Review())
+        </div>
+
+        <br />
+
+
+    </div>
+

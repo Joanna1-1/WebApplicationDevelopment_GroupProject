@@ -1,0 +1,105 @@
+﻿@model Recipe
+
+@{
+    ViewBag.Title = "Recipes List";
+    Layout = "_Layout";
+}
+
+
+<div class="panel-body recDiv">
+    <div>
+        <div class="hTitle">
+            @Model.Title
+        </div>
+        <table class="table-bordered">
+            <tr>
+                <td style="width: 55%; padding: 5px; text-align: center">
+                    <img src="~/images/@(Model.Id).jpg" width="340" height="240"/>
+                </td>
+                <td style="width: 45%; padding: 5px; font-size: 12pt; border: solid 1px #aaa4a4; padding-left: 50px;">
+                    <table class="table">
+                        <tr>
+                            <td>
+                                <strong>Prep: </strong>
+                            </td>
+                            <td>
+                                @Model.PreparationTime
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Servings: </strong>
+                            </td>
+                            <td>
+                                Servings: @Model.Servings
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <strong>Average Rate: </strong>
+                            </td>
+                            <td>
+                                @await Html.PartialAsync("_Rating", @Model.AvrgRate)
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <br />
+        <div class="ingDiv">
+            <h3>
+                By: @Model.Chef
+            </h3>
+            <br />
+            <h4>
+                @Model.Description
+            </h4>
+            <br />
+            <h3 style="font-weight:700">Ingredients</h3>
+            <div style="font-size: 14pt; padding: 10px">
+                @Model.Ingredient
+            </div>
+        </div>
+
+        <div class="ingDiv">
+            <br />
+            <h3 style="font-weight:700">Directions</h3>
+            <br />
+            <p>
+                @Model.Direction
+            </p>
+            <br />
+        </div>
+
+        <div class="ingDiv">
+            <br />
+            <h3 style="font-weight:700">Nutrition Facts</h3>
+            <p>
+                <br />
+                Per Serving:
+                <br />
+                @Model.Nutrition
+            </p>
+            <br />
+        </div>
+    </div>
+
+    <div>
+        @*@Html.Partial("_Reviews", Model)*@
+        <br />
+        <div >
+            <form asp-action="DeleteRec" asp-controller="Crud" method="post" style="text-align:center">
+                <a asp-action="RecipeReview" asp-controller="Home" asp-route-id="@Model.Id" class="btn btn-warning">&nbsp;Review&nbsp;</a>
+                &nbsp;
+                <a asp-action="RecipeEdit" asp-route-id="@Model.Id" class="btn btn-info">&nbsp;Edit&nbsp;</a>
+                &nbsp;
+                <input type="hidden" name="Id" value="@Model.Id" />
+                <input type="submit" name="name" value="Delete" class="btn btn-danger" 
+                       onclick="return confirm('Are you sure you want to Delete the recipe?')" />
+            </form>
+        </div>
+        <br />
+    </div>
+
+</div>

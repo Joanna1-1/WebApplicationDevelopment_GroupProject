@@ -1,0 +1,273 @@
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Assignment_3\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csprojAssemblyReference.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.genruntimeconfig.cache
+C:\Users\young\Desktop\Centennial College\COMP229_Web Application Development\[Assignments]\Project\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Younga - Project_v.1.1我改了partial view, 待修\Project\Project\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csprojAssemblyReference.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+D:\CANADA\College\Semester_3\COMP_229\Assignments\Project_v.1.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.deps.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\bin\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.input.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.TagHelpers.output.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorCoreGenerate.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeEdit.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Crud\RecipeView.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Home.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeList.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\RecipeReview.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Rating.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_RecipeRow.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReviewForm.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Reviews.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.Views.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.dll
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.pdb
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\COMP 229 SEC.001\Group Project\Final Version COMP229_G1\Project_v.2\RecipeWebApp\obj\Debug\netcoreapp2.1\RecipeWebApp.csproj.CopyComplete
